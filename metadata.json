@@ -1,0 +1,6 @@
+{
+  "name": "ReelFlow",
+  "description": "Cinema-grade Android video player for local videos, network streams, playlists, and gesture-driven playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
